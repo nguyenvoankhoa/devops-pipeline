@@ -1,0 +1,11 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "description": "Sample project for GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests passed\""
+  },
+  "author": "",
+  "license": "MIT"
+}
